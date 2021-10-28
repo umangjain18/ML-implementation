@@ -47,7 +47,7 @@ y_test = y_test_full[:500]
 
 # # Question 3b
 
-# ### Using Gaussian Baes Method and calculation of accuracy, confusion matrix and classification report
+# ### Using Gaussian Bayes Method and calculation of accuracy, confusion matrix and classification report
 
 # In[9]:
 
